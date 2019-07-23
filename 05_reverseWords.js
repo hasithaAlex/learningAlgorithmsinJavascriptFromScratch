@@ -10,7 +10,7 @@ function reverseWords(words){
     });
     return newWordsArr.join(' ')
 }
-console.log(reverseWords("set of words that is complete in itself, typically"))
+console.log(reverseWords("I set of words that is complete in itself, typically"))
 
 
 

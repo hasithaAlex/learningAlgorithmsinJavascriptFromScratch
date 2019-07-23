@@ -9,7 +9,7 @@ function isPalindrme(paramString) {
 
     var lettersArr = [];
     charactersArray.forEach(char => {
-        if (validCharacters.indexOf(char)>-1)
+        if (validCharacters.indexOf(char) > -1)
             lettersArr.push(char);
     });
 
